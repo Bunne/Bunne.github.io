@@ -1,3 +1,17 @@
+---
+defaults:
+	- scope:
+		path: ""
+		type: posts
+	values:
+		layout: single
+		author_profile: true
+		read_time: true
+		comments: true
+		share: true
+		related: true
+---
+
 ## Back on Track
 I'm writing all this down as a way of keeping myself focused on my work for once.
 
