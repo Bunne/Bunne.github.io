@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
 title                    : "The Electric Rabbit"
@@ -29,12 +22,6 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "dark"# "light" (default), "dark"
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
 # Social Sharing
 twitter:
   username               : "ElecRabbit"
@@ -52,11 +39,6 @@ analytics:
   google:
     tracking_id          :
 
-# Google AdSense
-google_ad_client         :
-google_ad_slot           :
-
-
 # Site Author
 author:
   name             : "Cameron Pelkey"
@@ -66,27 +48,9 @@ author:
   email            :
   uri              :
   bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "Bunne"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "ElecRabbit"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
 
 
 # Reading Files
@@ -134,7 +98,6 @@ defaults:
       related: true
       category: posts
 
-defaults:
   # _pages
   - scope:
       path: _pages
