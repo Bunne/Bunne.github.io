@@ -1,3 +1,7 @@
+---
+title: Back on Track
+---
+
 I'm writing all this down as a way of keeping myself focused on my work for once.
 
 It's been about a year and a half since I've had a working computer, one capable enough of doing any sort of real development work. Since then, my involvement in anything remotely technology-related has been confined to efforts at my day job. That work is, at best, unintersting and involves zero software development. As a result, a majority of my time went into studying intelligence theory, game design, and a hefty amount of drinking.
