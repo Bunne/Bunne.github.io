@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "The Electric Rabbit"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Cameron Pelkey"
+description              : "The good kind of code bunny."
+url                      : "https://Bunne.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -27,7 +27,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"# "light" (default), "dark"
 
 # SEO Related
 google_site_verification :
@@ -37,11 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : "ElecRabbit"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -63,10 +59,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cameron Pelkey"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I used to work in a lab, now I live with three rabbits."
+  location         : "Chicago, IL"
   email            :
   uri              :
   bitbucket        :
@@ -75,7 +71,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "Bunne"
   google_plus      :
   keybase          :
   instagram        :
