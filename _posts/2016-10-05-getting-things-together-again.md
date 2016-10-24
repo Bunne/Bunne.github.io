@@ -65,20 +65,20 @@ And for additional measure:
 
 - **Weekly**: Complete two programming challenges.
 
-## Game Design
+## <del>Game Design</del>
 
-For the love of God, I've spent nearly two years on these endeavours, I need to follow through with at least one.
+<del>For the love of God, I've spent nearly two years on these endeavours, I need to follow through with at least one.</del>
 
-- **Two Years**: Complete publishing a tabletop game.
-- **15 Months**: Begin production.
-- **14 Months**: Begin crowdfunding[^crowdfunding].
-- **13 Months**: Begin promotion.
-- **One Year**: Start work on final design.
-- **Seven Months**: Complete Playtesting[^playtesting].
-- **Three Months**: Begin Playtesting. Continually revise.
-- **Two Months**: Prototype each design.
-- **Two Months**: Re-start Electric Rabbit LLC.
-- **One Month**: Finalize one or two concepts.
+- <del>**Two Years**: Complete publishing a tabletop game.</del>
+- <del>**15 Months**: Begin production.</del>
+- <del>**14 Months**: Begin crowdfunding[^crowdfunding].</del>
+- <del>**13 Months**: Begin promotion.</del>
+- <del>**One Year**: Start work on final design.</del>
+- <del>**Seven Months**: Complete Playtesting[^playtesting].</del>
+- <del>**Three Months**: Begin Playtesting. Continually revise.</del>
+- <del>**Two Months**: Prototype each design.</del>
+- <del>**Two Months**: Re-start Electric Rabbit LLC.</del>
+- <del>**One Month**: Finalize one or two concepts.</del>
 
 
 ## Career
