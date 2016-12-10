@@ -4,7 +4,7 @@ title                    : "The Electric Rabbit"
 title_separator          : "-"
 name                     : "Cameron Pelkey"
 description              : "The good kind of code bunny."
-url                      : "https://Bunne.github.io" 
+url                      : "https://Bunne.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -43,7 +43,7 @@ analytics:
 author:
   name             : "Cameron Pelkey"
   avatar           : "ElecRabbit1.gif"
-  bio              : "I used to work in a lab, now I live with three rabbits."
+  bio              : "I used to work in a lab, now I live with four rabbits."
   location         : "Chicago, IL"
   email            :
   uri              :
