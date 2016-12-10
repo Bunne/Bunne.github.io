@@ -14,7 +14,6 @@ Tonight, I got things going by writing a quick abstract card system and built a 
 * Insertion sort
 * Merge sort
 * Quicksort
-* Radix sort
 * Selection sort
 
 ##### New Technology
