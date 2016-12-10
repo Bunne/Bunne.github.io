@@ -1,5 +1,7 @@
 ---
 title: Exploring Sorting Algorithms
+tagline: Reviewing Sorting Algorithms
+description: Reviewing and comparing sorting algorithms
 ---
 
 # Table of Contents
