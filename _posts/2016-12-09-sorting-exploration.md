@@ -4,6 +4,8 @@ tagline: Reviewing Sorting Algorithms
 description: Reviewing and comparing sorting algorithms
 ---
 
+A review and comparison of various sorting algorithms for regular use.
+
 # Table of Contents
 
 1. [Bubble Sort](#bubble-sort)
