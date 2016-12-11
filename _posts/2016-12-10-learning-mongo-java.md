@@ -1,5 +1,7 @@
 ---
 title: MongoDB and Java
+tagline: MongoDB and Java
+description: Figuring out how to use MangoDB through Java
 ---
 
 Diving deeper into MongoDB and how to use it programmatically.
