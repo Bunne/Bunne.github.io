@@ -2,5 +2,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Knowledge Track"
-    url: /know/
+  - title: "Skills Track"
+    url: /skills/
