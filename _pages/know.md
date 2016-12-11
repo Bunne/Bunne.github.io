@@ -1,5 +1,5 @@
 ---
-permalink: /Skills/
+permalink: /skills/
 type: pages
 title: Skills
 layout: single 
