@@ -1,18 +1,17 @@
 ---
 permalink: /skills/
 type: pages
-title: Skills
+title: Skills Tracker
 layout: single 
 author_profile: true
 ---
 
-# Skills Tracker
 
 This is where I plan to document what technologies I've learned and what I still need to and plan to learn. I hope that it will give me some sort of roadmap for learning, keeping me focused as I go and seeing how everything fits together.
 
-## Know
+# Know
 
-#### Languages
+### Languages
 
 * Java 1.8
 * Python 2.7/3
@@ -21,18 +20,18 @@ This is where I plan to document what technologies I've learned and what I still
 * Zsh
 * LaTeX
 
-#### Frameworks
+### Frameworks
 
 * REST
 * MVC
 
-#### Database
+### Database
 
 * MySQL **(SQL)**
 * Oracle DB **(SQL)**
 * MongoDB **(NoSQL)**
 
-#### Tools
+### Tools
 
 * Git **(VCS)**
 * Subversion **(VCS)**
@@ -41,7 +40,7 @@ This is where I plan to document what technologies I've learned and what I still
 * Eclipse **(IDE)**
 * Microsoft Visual Studio **(IDE)**
 
-## Need to Know
+# Need to Know
 
 * C# **(Language)** 
 * Maven **(Build Tool)**
