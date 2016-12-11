@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Knowledge Track
+# Skills Tracker
 
 This is where I plan to document what technologies I've learned and what I still need to and plan to learn. I hope that it will give me some sort of roadmap for learning, keeping me focused as I go and seeing how everything fits together.
 
