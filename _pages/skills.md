@@ -35,6 +35,7 @@ This is where I plan to document what technologies I've learned and what I still
 
 * Git **(VCS)**
 * Subversion **(VCS)**
+* Maven **(Build Tool)** - *Continued learning*
 * PyCharm **(IDE)**
 * IntelliJ IDEA **(IDE)**
 * Eclipse **(IDE)**
@@ -43,7 +44,6 @@ This is where I plan to document what technologies I've learned and what I still
 # Need to Know
 
 * C# **(Language)** 
-* Maven **(Build Tool)**
 * Spring MVC **(Web Framework)**
 * Spring Boot **(Web Framework)**
 
