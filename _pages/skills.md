@@ -19,6 +19,7 @@ This is where I plan to document what technologies I've learned and what I still
 * Bash
 * Zsh
 * LaTeX
+* C# - *Continued Learning*
 
 ### Frameworks
 
@@ -43,7 +44,7 @@ This is where I plan to document what technologies I've learned and what I still
 
 # Need to Know
 
-* C# **(Language)** 
+* .Net **(Framework)**
 * Spring MVC **(Web Framework)**
 * Spring Boot **(Web Framework)**
 
