@@ -4,7 +4,9 @@ tagline: Going from Java to C# in an evening
 description: There are so many .NET jobs out there now..
 ---
 
-I've been needing to pick up C# for a long time now. I've used it before, working with the Kinect, but never had a reason after that. It should be easy enough considering how close it is to Java, right?
+I've been needing to pick up C# for a long time now.
+
+I've used it before, working with the Kinect, but never had a reason after that. It should be easy enough considering how close it is to Java, right?
 
 # Basics
 
