@@ -28,17 +28,22 @@ I suppose I should take a break. After coffee I'll get what household chores I n
 
 * The aforementioned Sublime Text Plugin
 * Cleaning up Github.io site; for myself if nothing else
-* Re-implement python list comprehensions in C#?
 * Telegram bot
 * Implement a tabletop game I own (C# probably)
 	* Jarl
+* Board Game Geek game analysis
+	* Trends in the industry
+	* Games being released/played
+* Re-implement python list comprehensions in C#?
+* Implement a language?
+	* Play with Lex/Yacc again.
+	* Find a language on GitHub to learn from
 * Something to monitor my excessive caffeine consumption
 	* Coffee social networking?
 	* Model after Untappd; I like that app
+* Activity planner
+	* Use Yelp API (if any) to plot out maps 
 * More creative writing
 	* Unity framework for [Ink](www.inklestudios.com/ink/) games.
 	* Write more myself; I need to stop stopping
 	* Blogging more is a good start, too
-* Board Game Geek game analysis
-	* Trends in the industry
-	* Games being released/played
