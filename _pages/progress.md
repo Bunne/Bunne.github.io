@@ -1,13 +1,17 @@
 ---
-Permalink: Progressor.OutputMarkdownCommand
-Title: Progressor.OutputMarkdownCommand
-author_profile: Progressor.OutputMarkdownCommand
+Permalink: /progress/
+Title: Progress
+author_profile: true
 ---
 
 ## Github
 
 ### Github.io
 
+- **Commit** 22e4931d861c1bcc2f52f9c1b1ca09c68c937c83<br/>
+**Author:** Bunne<br/>
+**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/16/2016 6:22:45 AM<br/>
+Testing Progress Generator
 - **Commit** e7f8c6fe55e3c25cc7eae8c4e71fd1e3ae23fb90<br/>
 **Author:** Bunne<br/>
 **Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/12/2016 7:03:33 AM<br/>
@@ -24,10 +28,6 @@ Updated Skills: Maven
 **Author:** Bunne<br/>
 **Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/11/2016 3:37:47 AM<br/>
 New Post: learning Maven
-- **Commit** ec75cfa7ace4e751cd07f94da193669222ab422c<br/>
-**Author:** Bunne<br/>
-**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/11/2016 1:54:19 AM<br/>
-Updating mongo notes
 
 
 ## Personal
