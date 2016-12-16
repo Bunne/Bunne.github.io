@@ -1,6 +1,8 @@
 ---
-Permalink: /progress/
-Title: Progress
+permalink: /progress/
+type: pages
+title: Progress
+layout: single
 author_profile: true
 ---
 
@@ -8,6 +10,10 @@ author_profile: true
 
 ### Github.io
 
+- **Commit** 1b227433f449d10ba21dbab41df9f6a6fe3cfb71<br/>
+**Author:** Bunne<br/>
+**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/16/2016 6:27:47 AM<br/>
+Testing Progress Generator
 - **Commit** 22e4931d861c1bcc2f52f9c1b1ca09c68c937c83<br/>
 **Author:** Bunne<br/>
 **Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/16/2016 6:22:45 AM<br/>
@@ -24,10 +30,6 @@ New Post/Skill: Learning c#
 **Author:** Bunne<br/>
 **Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/11/2016 3:39:54 AM<br/>
 Updated Skills: Maven
-- **Commit** 0a7ef23371e50bcdc81b27b3a1f5362373310920<br/>
-**Author:** Bunne<br/>
-**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/11/2016 3:37:47 AM<br/>
-New Post: learning Maven
 
 
 ## Personal
