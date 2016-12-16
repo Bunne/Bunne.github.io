@@ -6,13 +6,17 @@ layout: single
 author_profile: true
 ---
 
-This page is automatically generated to show recent updates.
+This page demonstrates the use of *Progressor* for generating Markdown pages from github projects.
 
 
 ## Github
 
-### Github.io
+### Bunne.github.io
 
+- **Commit** 1164db1b5d9af26d8bb1cd9f98572230c8b175a3<br/>
+**Author:**&nbsp; Bunne<br/>
+**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/16/2016 7:28:48 AM<br/>
+Testing Progress Generator
 - **Commit** a97bd0df72f6d3f0cc2876dcb7d7d89fa45464d1<br/>
 **Author:**&nbsp; Bunne<br/>
 **Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/16/2016 6:29:51 AM<br/>
@@ -29,10 +33,14 @@ Testing Progress Generator
 **Author:**&nbsp; Bunne<br/>
 **Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/12/2016 7:03:33 AM<br/>
 Fixing initial text
-- **Commit** 5c5be3037316f25112126653a9ac2bd6c0c541ad<br/>
+
+
+### Progressor
+
+- **Commit** ed5c0ac760cd35959dc48363c697b55fee2402ed<br/>
 **Author:**&nbsp; Bunne<br/>
-**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/12/2016 6:50:32 AM<br/>
-New Post/Skill: Learning c#
+**Date:**&nbsp;&nbsp;&nbsp;&nbsp; 12/16/2016 7:47:53 AM<br/>
+Initial commit
 
 
 ## Personal
