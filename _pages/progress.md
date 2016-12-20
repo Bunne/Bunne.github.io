@@ -33,6 +33,8 @@ Merge branch 'win\_mmap' of [https://github.com/ankostis/GitPython](https://gith
 
 ## Bunne.github.io
 
+* **Bunne** - 2016-12-20 17:19:50-06:00<br>
+Updating Progress list using new plugin
 * **Bunne** - 2016-12-16 12:22:52-06:00<br>
 Update Ideas list
 * **Bunne** - 2016-12-16 12:15:01-06:00<br>
@@ -51,8 +53,6 @@ Testing Progress Generator
 Fixing initial text
 * **Bunne** - 2016-12-12 06:50:32-06:00<br>
 New Post/Skill: Learning c#
-* **Bunne** - 2016-12-11 03:39:54-06:00<br>
-Updated Skills: Maven
 
 ## Progressor
 
